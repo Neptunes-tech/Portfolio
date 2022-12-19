@@ -1,0 +1,2124 @@
+[
+    {
+        "G:\\React Projects\\tennis-analysis\\client\\src\\index.jsx": "1",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\App.jsx": "2",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Redux\\store.jsx": "3",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Redux\\rootReducer.jsx": "4",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Config\\routes.jsx": "5",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Config\\paths.jsx": "6",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Components\\index.jsx": "7",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\index.jsx": "8",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Redux\\reducers\\index.jsx": "9",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Redux\\reducers\\authReducer.jsx": "10",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Login\\Login.jsx": "11",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Login\\Signup.jsx": "12",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Components\\MenuLayout\\MenuLayout.jsx": "13",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Login\\UpdatePassword.jsx": "14",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Components\\Settings\\UserSettings.jsx": "15",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Login\\ForgotPassword.jsx": "16",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Settings\\Settings.jsx": "17",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Components\\Settings\\ChangePassword.jsx": "18",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\utils\\helpers.jsx": "19",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\utils\\constants.jsx": "20",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Redux\\actions\\authActions.jsx": "21",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\VerifyEmail\\VerifyEmail.jsx": "22",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Components\\SocialButtons\\SocialButtons.jsx": "23",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Components\\Header.jsx": "24",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Admin\\Admin.jsx": "25",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Admin\\index.jsx": "26",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Admin\\Players\\Players.jsx": "27",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Admin\\Players\\AddPlayer.jsx": "28",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Admin\\Tournaments\\Tournaments.jsx": "29",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Admin\\Users.jsx": "30",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Admin\\Tournaments\\AddTournament.jsx": "31",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Match\\Matches.jsx": "32",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Match\\AddMatch.jsx": "33",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\utils\\apis.jsx": "34",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Redux\\types.jsx": "35",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Redux\\actions\\matchActions.jsx": "36",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\MatchTool\\MatchTool.jsx": "37",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\Redux\\reducers\\matchReducer.jsx": "38",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\serviceWorker.jsx": "39",
+        "G:\\React Projects\\tennis-analysis\\client\\src\\serviceWorkerRegistration.jsx": "40"
+    },
+    {
+        "size": 996,
+        "mtime": 1628703606086,
+        "results": "41",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 370,
+        "mtime": 1628096166482,
+        "results": "43",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 508,
+        "mtime": 1628096166495,
+        "results": "44",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 131,
+        "mtime": 1628096166495,
+        "results": "45",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 1680,
+        "mtime": 1628096166491,
+        "results": "46",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 783,
+        "mtime": 1628096166490,
+        "results": "47",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 387,
+        "mtime": 1628096166488,
+        "results": "48",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 689,
+        "mtime": 1628096166512,
+        "results": "49",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 133,
+        "mtime": 1628096166494,
+        "results": "50",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 844,
+        "mtime": 1628096166493,
+        "results": "51",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 4021,
+        "mtime": 1628096166504,
+        "results": "52",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 5778,
+        "mtime": 1628096166504,
+        "results": "53",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 2355,
+        "mtime": 1628096166485,
+        "results": "54",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 5315,
+        "mtime": 1628096166505,
+        "results": "55",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 2870,
+        "mtime": 1628096166486,
+        "results": "56",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 3230,
+        "mtime": 1628096166503,
+        "results": "57",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 1047,
+        "mtime": 1616605741225,
+        "results": "58",
+        "hashOfConfig": "59"
+    },
+    {
+        "size": 4535,
+        "mtime": 1628096166485,
+        "results": "60",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 3918,
+        "mtime": 1628096166517,
+        "results": "61",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 15520,
+        "mtime": 1628264309760,
+        "results": "62",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 890,
+        "mtime": 1628096166492,
+        "results": "63",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 1576,
+        "mtime": 1628096166510,
+        "results": "64",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 1370,
+        "mtime": 1628096166487,
+        "results": "65",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 2717,
+        "mtime": 1628096166484,
+        "results": "66",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 2658,
+        "mtime": 1628096166498,
+        "results": "67",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 317,
+        "mtime": 1628096166502,
+        "results": "68",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 6259,
+        "mtime": 1628096166499,
+        "results": "69",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 14269,
+        "mtime": 1628096166499,
+        "results": "70",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 6207,
+        "mtime": 1628096166501,
+        "results": "71",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 4184,
+        "mtime": 1628096166501,
+        "results": "72",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 13158,
+        "mtime": 1628096166500,
+        "results": "73",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 7292,
+        "mtime": 1628096166507,
+        "results": "74",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 18021,
+        "mtime": 1628096166506,
+        "results": "75",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 1342,
+        "mtime": 1628096166516,
+        "results": "76",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 485,
+        "mtime": 1628096166496,
+        "results": "77",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 404,
+        "mtime": 1628096166493,
+        "results": "78",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 52030,
+        "mtime": 1628263514599,
+        "results": "79",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 496,
+        "mtime": 1628096166495,
+        "results": "80",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 5966,
+        "mtime": 1628078245468,
+        "results": "81",
+        "hashOfConfig": "42"
+    },
+    {
+        "size": 6065,
+        "mtime": 1628703843402,
+        "results": "82",
+        "hashOfConfig": "42"
+    },
+    {
+        "filePath": "83",
+        "messages": "84",
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0
+    },
+    "cb68ok",
+    {
+        "filePath": "85",
+        "messages": "86",
+        "errorCount": 0,
+        "warningCount": 1,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": null
+    },
+    {
+        "filePath": "87",
+        "messages": "88",
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0
+    },
+    {
+        "filePath": "89",
+        "messages": "90",
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0
+    },
+    {
+        "filePath": "91",
+        "messages": "92",
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0
+    },
+    {
+        "filePath": "93",
+        "messages": "94",
+        "errorCount": 0,
+        "warningCount": 1,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": null
+    },
+    {
+        "filePath": "95",
+        "messages": "96",
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0
+    },
+    {
+        "filePath": "97",
+        "messages": "98",
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0
+    },
+    {
+        "filePath": "99",
+        "messages": "100",
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0
+    },
+    {
+        "filePath": "101",
+        "messages": "102",
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0
+    },
+    {
+        "filePath": "103",
+        "messages": "104",
+        "errorCount": 0,
+        "warningCount": 1,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": null
+    },
+    {
+        "filePath": "105",
+        "messages": "106",
+        "errorCount": 0,
+        "warningCount": 1,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": null
+    },
+    {
+        "filePath": "107",
+        "messages": "108",
+        "errorCount": 0,
+        "warningCount": 1,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": null
+    },
+    {
+        "filePath": "109",
+        "messages": "110",
+        "errorCount": 0,
+        "warningCount": 1,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": null
+    },
+    {
+        "filePath": "111",
+        "messages": "112",
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0
+    },
+    {
+        "filePath": "113",
+        "messages": "114",
+        "errorCount": 0,
+        "warningCount": 1,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": null
+    },
+    {
+        "filePath": "115",
+        "messages": "116",
+        "errorCount": 0,
+        "warningCount": 5,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": null
+    },
+    "vmehqm",
+    {
+        "filePath": "117",
+        "messages": "118",
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0
+    },
+    {
+        "filePath": "119",
+        "messages": "120",
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0
+    },
+    {
+        "filePath": "121",
+        "messages": "122",
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0
+    },
+    {
+        "filePath": "123",
+        "messages": "124",
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0
+    },
+    {
+        "filePath": "125",
+        "messages": "126",
+        "errorCount": 0,
+        "warningCount": 1,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": null
+    },
+    {
+        "filePath": "127",
+        "messages": "128",
+        "errorCount": 0,
+        "warningCount": 5,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": null
+    },
+    {
+        "filePath": "129",
+        "messages": "130",
+        "errorCount": 0,
+        "warningCount": 3,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": null
+    },
+    {
+        "filePath": "131",
+        "messages": "132",
+        "errorCount": 0,
+        "warningCount": 2,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": null
+    },
+    {
+        "filePath": "133",
+        "messages": "134",
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0
+    },
+    {
+        "filePath": "135",
+        "messages": "136",
+        "errorCount": 0,
+        "warningCount": 6,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": null
+    },
+    {
+        "filePath": "137",
+        "messages": "138",
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0
+    },
+    {
+        "filePath": "139",
+        "messages": "140",
+        "errorCount": 0,
+        "warningCount": 7,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": null
+    },
+    {
+        "filePath": "141",
+        "messages": "142",
+        "errorCount": 0,
+        "warningCount": 6,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": null
+    },
+    {
+        "filePath": "143",
+        "messages": "144",
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0
+    },
+    {
+        "filePath": "145",
+        "messages": "146",
+        "errorCount": 0,
+        "warningCount": 7,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": null
+    },
+    {
+        "filePath": "147",
+        "messages": "148",
+        "errorCount": 0,
+        "warningCount": 1,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": null
+    },
+    {
+        "filePath": "149",
+        "messages": "150",
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0
+    },
+    {
+        "filePath": "151",
+        "messages": "152",
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0
+    },
+    {
+        "filePath": "153",
+        "messages": "154",
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0
+    },
+    {
+        "filePath": "155",
+        "messages": "156",
+        "errorCount": 0,
+        "warningCount": 45,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": null
+    },
+    {
+        "filePath": "157",
+        "messages": "158",
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0
+    },
+    {
+        "filePath": "159",
+        "messages": "160",
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0
+    },
+    {
+        "filePath": "161",
+        "messages": "162",
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0
+    },
+    "G:\\React Projects\\tennis-analysis\\client\\src\\index.jsx",
+    [],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\App.jsx",
+    [
+        "163"
+    ],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Redux\\store.jsx",
+    [],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Redux\\rootReducer.jsx",
+    [],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Config\\routes.jsx",
+    [],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Config\\paths.jsx",
+    [
+        "164"
+    ],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Components\\index.jsx",
+    [],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\index.jsx",
+    [],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Redux\\reducers\\index.jsx",
+    [],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Redux\\reducers\\authReducer.jsx",
+    [],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Login\\Login.jsx",
+    [
+        "165"
+    ],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Login\\Signup.jsx",
+    [
+        "166"
+    ],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Components\\MenuLayout\\MenuLayout.jsx",
+    [
+        "167"
+    ],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Login\\UpdatePassword.jsx",
+    [
+        "168"
+    ],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Components\\Settings\\UserSettings.jsx",
+    [],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Login\\ForgotPassword.jsx",
+    [
+        "169"
+    ],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Settings\\Settings.jsx",
+    [
+        "170",
+        "171",
+        "172",
+        "173",
+        "174"
+    ],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Components\\Settings\\ChangePassword.jsx",
+    [],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\utils\\helpers.jsx",
+    [],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\utils\\constants.jsx",
+    [],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Redux\\actions\\authActions.jsx",
+    [],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\VerifyEmail\\VerifyEmail.jsx",
+    [
+        "175"
+    ],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Components\\SocialButtons\\SocialButtons.jsx",
+    [
+        "176",
+        "177",
+        "178",
+        "179",
+        "180"
+    ],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Components\\Header.jsx",
+    [
+        "181",
+        "182",
+        "183"
+    ],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Admin\\Admin.jsx",
+    [
+        "184",
+        "185"
+    ],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Admin\\index.jsx",
+    [],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Admin\\Players\\Players.jsx",
+    [
+        "186",
+        "187",
+        "188",
+        "189",
+        "190",
+        "191"
+    ],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Admin\\Players\\AddPlayer.jsx",
+    [],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Admin\\Tournaments\\Tournaments.jsx",
+    [
+        "192",
+        "193",
+        "194",
+        "195",
+        "196",
+        "197",
+        "198"
+    ],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Admin\\Users.jsx",
+    [
+        "199",
+        "200",
+        "201",
+        "202",
+        "203",
+        "204"
+    ],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Admin\\Tournaments\\AddTournament.jsx",
+    [],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Match\\Matches.jsx",
+    [
+        "205",
+        "206",
+        "207",
+        "208",
+        "209",
+        "210",
+        "211"
+    ],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\Match\\AddMatch.jsx",
+    [
+        "212"
+    ],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\utils\\apis.jsx",
+    [],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Redux\\types.jsx",
+    [],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Redux\\actions\\matchActions.jsx",
+    [],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Screens\\MatchTool\\MatchTool.jsx",
+    [
+        "213",
+        "214",
+        "215",
+        "216",
+        "217",
+        "218",
+        "219",
+        "220",
+        "221",
+        "222",
+        "223",
+        "224",
+        "225",
+        "226",
+        "227",
+        "228",
+        "229",
+        "230",
+        "231",
+        "232",
+        "233",
+        "234",
+        "235",
+        "236",
+        "237",
+        "238",
+        "239",
+        "240",
+        "241",
+        "242",
+        "243",
+        "244",
+        "245",
+        "246",
+        "247",
+        "248",
+        "249",
+        "250",
+        "251",
+        "252",
+        "253",
+        "254",
+        "255",
+        "256",
+        "257"
+    ],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\Redux\\reducers\\matchReducer.jsx",
+    [],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\serviceWorker.jsx",
+    [],
+    "G:\\React Projects\\tennis-analysis\\client\\src\\serviceWorkerRegistration.jsx",
+    [],
+    {
+        "ruleId": "258",
+        "severity": 1,
+        "message": "259",
+        "line": 11,
+        "column": 3,
+        "nodeType": "260",
+        "messageId": "261",
+        "endLine": 13,
+        "endColumn": 4
+    },
+    {
+        "ruleId": "262",
+        "severity": 1,
+        "message": "263",
+        "line": 18,
+        "column": 1,
+        "nodeType": "264",
+        "endLine": 35,
+        "endColumn": 2
+    },
+    {
+        "ruleId": "265",
+        "severity": 1,
+        "message": "266",
+        "line": 39,
+        "column": 8,
+        "nodeType": "267",
+        "endLine": 39,
+        "endColumn": 10,
+        "suggestions": "268"
+    },
+    {
+        "ruleId": "265",
+        "severity": 1,
+        "message": "266",
+        "line": 18,
+        "column": 8,
+        "nodeType": "267",
+        "endLine": 18,
+        "endColumn": 10,
+        "suggestions": "269"
+    },
+    {
+        "ruleId": "265",
+        "severity": 1,
+        "message": "270",
+        "line": 46,
+        "column": 8,
+        "nodeType": "267",
+        "endLine": 46,
+        "endColumn": 10,
+        "suggestions": "271"
+    },
+    {
+        "ruleId": "265",
+        "severity": 1,
+        "message": "272",
+        "line": 67,
+        "column": 8,
+        "nodeType": "267",
+        "endLine": 67,
+        "endColumn": 10,
+        "suggestions": "273"
+    },
+    {
+        "ruleId": "265",
+        "severity": 1,
+        "message": "266",
+        "line": 37,
+        "column": 8,
+        "nodeType": "267",
+        "endLine": 37,
+        "endColumn": 10,
+        "suggestions": "274"
+    },
+    {
+        "ruleId": "275",
+        "severity": 1,
+        "message": "276",
+        "line": 6,
+        "column": 11,
+        "nodeType": "277",
+        "messageId": "278",
+        "endLine": 6,
+        "endColumn": 15
+    },
+    {
+        "ruleId": "275",
+        "severity": 1,
+        "message": "279",
+        "line": 7,
+        "column": 11,
+        "nodeType": "277",
+        "messageId": "278",
+        "endLine": 7,
+        "endColumn": 19
+    },
+    {
+        "ruleId": "275",
+        "severity": 1,
+        "message": "280",
+        "line": 8,
+        "column": 12,
+        "nodeType": "277",
+        "messageId": "278",
+        "endLine": 8,
+        "endColumn": 17
+    },
+    {
+        "ruleId": "275",
+        "severity": 1,
+        "message": "281",
+        "line": 8,
+        "column": 19,
+        "nodeType": "277",
+        "messageId": "278",
+        "endLine": 8,
+        "endColumn": 30
+    },
+    {
+        "ruleId": "275",
+        "severity": 1,
+        "message": "282",
+        "line": 19,
+        "column": 11,
+        "nodeType": "277",
+        "messageId": "278",
+        "endLine": 19,
+        "endColumn": 19
+    },
+    {
+        "ruleId": "265",
+        "severity": 1,
+        "message": "272",
+        "line": 34,
+        "column": 8,
+        "nodeType": "267",
+        "endLine": 34,
+        "endColumn": 10,
+        "suggestions": "283"
+    },
+    {
+        "ruleId": "275",
+        "severity": 1,
+        "message": "284",
+        "line": 1,
+        "column": 17,
+        "nodeType": "277",
+        "messageId": "278",
+        "endLine": 1,
+        "endColumn": 25
+    },
+    {
+        "ruleId": "275",
+        "severity": 1,
+        "message": "285",
+        "line": 3,
+        "column": 8,
+        "nodeType": "277",
+        "messageId": "278",
+        "endLine": 3,
+        "endColumn": 21
+    },
+    {
+        "ruleId": "275",
+        "severity": 1,
+        "message": "286",
+        "line": 4,
+        "column": 29,
+        "nodeType": "277",
+        "messageId": "278",
+        "endLine": 4,
+        "endColumn": 48
+    },
+    {
+        "ruleId": "275",
+        "severity": 1,
+        "message": "287",
+        "line": 5,
+        "column": 26,
+        "nodeType": "277",
+        "messageId": "278",
+        "endLine": 5,
+        "endColumn": 36
+    },
+    {
+        "ruleId": "275",
+        "severity": 1,
+        "message": "288",
+        "line": 6,
+        "column": 23,
+        "nodeType": "277",
+        "messageId": "278",
+        "endLine": 6,
+        "endColumn": 36
+    },
+    {
+        "ruleId": "275",
+        "severity": 1,
+        "message": "289",
+        "line": 3,
+        "column": 39,
+        "nodeType": "277",
+        "messageId": "278",
+        "endLine": 3,
+        "endColumn": 51
+    },
+    {
+        "ruleId": "275",
+        "severity": 1,
+        "message": "290",
+        "line": 8,
+        "column": 12,
+        "nodeType": "277",
+        "messageId": "278",
+        "endLine": 8,
+        "endColumn": 22
+    },
+    {
+        "ruleId": "275",
+        "severity": 1,
+        "message": "291",
+        "line": 8,
+        "column": 24,
+        "nodeType": "277",
+        "messageId": "278",
+        "endLine": 8,
+        "endColumn": 37
+    },
+    {
+        "ruleId": "265",
+        "severity": 1,
+        "message": "292",
+        "line": 20,
+        "column": 8,
+        "nodeType": "267",
+        "endLine": 20,
+        "endColumn": 10,
+        "suggestions": "293"
+    },
+    {
+        "ruleId": "265",
+        "severity": 1,
+        "message": "294",
+        "line": 24,
+        "column": 8,
+        "nodeType": "267",
+        "endLine": 24,
+        "endColumn": 13,
+        "suggestions": "295"
+    },
+    {
+        "ruleId": "265",
+        "severity": 1,
+        "message": "294",
+        "line": 22,
+        "column": 8,
+        "nodeType": "267",
+        "endLine": 22,
+        "endColumn": 18,
+        "suggestions": "296"
+    },
+    {
+        "ruleId": "297",
+        "severity": 1,
+        "message": "298",
+        "line": 76,
+        "column": 47,
+        "nodeType": "299",
+        "endLine": 76,
+        "endColumn": 106
+    },
+    {
+        "ruleId": "297",
+        "severity": 1,
+        "message": "298",
+        "line": 76,
+        "column": 116,
+        "nodeType": "299",
+        "endLine": 76,
+        "endColumn": 175
+    },
+    {
+        "ruleId": "297",
+        "severity": 1,
+        "message": "300",
+        "line": 88,
+        "column": 41,
+        "nodeType": "299",
+        "endLine": 88,
+        "endColumn": 53
+    },
+    {
+        "ruleId": "297",
+        "severity": 1,
+        "message": "298",
+        "line": 95,
+        "column": 48,
+        "nodeType": "299",
+        "endLine": 95,
+        "endColumn": 51
+    },
+    {
+        "ruleId": "301",
+        "severity": 1,
+        "message": "302",
+        "line": 126,
+        "column": 91,
+        "nodeType": "303",
+        "messageId": "304",
+        "endLine": 126,
+        "endColumn": 92
+    },
+    {
+        "ruleId": "275",
+        "severity": 1,
+        "message": "305",
+        "line": 9,
+        "column": 10,
+        "nodeType": "277",
+        "messageId": "278",
+        "endLine": 9,
+        "endColumn": 13
+    },
+    {
+        "ruleId": "265",
+        "severity": 1,
+        "message": "294",
+        "line": 22,
+        "column": 8,
+        "nodeType": "267",
+        "endLine": 22,
+        "endColumn": 18,
+        "suggestions": "306"
+    },
+    {
+        "ruleId": "297",
+        "severity": 1,
+        "message": "298",
+        "line": 76,
+        "column": 47,
+        "nodeType": "299",
+        "endLine": 76,
+        "endColumn": 106
+    },
+    {
+        "ruleId": "297",
+        "severity": 1,
+        "message": "298",
+        "line": 76,
+        "column": 116,
+        "nodeType": "299",
+        "endLine": 76,
+        "endColumn": 175
+    },
+    {
+        "ruleId": "297",
+        "severity": 1,
+        "message": "300",
+        "line": 88,
+        "column": 41,
+        "nodeType": "299",
+        "endLine": 88,
+        "endColumn": 53
+    },
+    {
+        "ruleId": "297",
+        "severity": 1,
+        "message": "298",
+        "line": 92,
+        "column": 48,
+        "nodeType": "299",
+        "endLine": 92,
+        "endColumn": 51
+    },
+    {
+        "ruleId": "301",
+        "severity": 1,
+        "message": "302",
+        "line": 124,
+        "column": 95,
+        "nodeType": "303",
+        "messageId": "304",
+        "endLine": 124,
+        "endColumn": 96
+    },
+    {
+        "ruleId": "265",
+        "severity": 1,
+        "message": "294",
+        "line": 17,
+        "column": 8,
+        "nodeType": "267",
+        "endLine": 17,
+        "endColumn": 10,
+        "suggestions": "307"
+    },
+    {
+        "ruleId": "297",
+        "severity": 1,
+        "message": "298",
+        "line": 64,
+        "column": 62,
+        "nodeType": "299",
+        "endLine": 64,
+        "endColumn": 90
+    },
+    {
+        "ruleId": "297",
+        "severity": 1,
+        "message": "298",
+        "line": 64,
+        "column": 110,
+        "nodeType": "299",
+        "endLine": 64,
+        "endColumn": 138
+    },
+    {
+        "ruleId": "297",
+        "severity": 1,
+        "message": "298",
+        "line": 65,
+        "column": 33,
+        "nodeType": "299",
+        "endLine": 65,
+        "endColumn": 115
+    },
+    {
+        "ruleId": "297",
+        "severity": 1,
+        "message": "300",
+        "line": 77,
+        "column": 37,
+        "nodeType": "299",
+        "endLine": 77,
+        "endColumn": 49
+    },
+    {
+        "ruleId": "297",
+        "severity": 1,
+        "message": "298",
+        "line": 84,
+        "column": 44,
+        "nodeType": "299",
+        "endLine": 84,
+        "endColumn": 47
+    },
+    {
+        "ruleId": "275",
+        "severity": 1,
+        "message": "305",
+        "line": 8,
+        "column": 10,
+        "nodeType": "277",
+        "messageId": "278",
+        "endLine": 8,
+        "endColumn": 13
+    },
+    {
+        "ruleId": "265",
+        "severity": 1,
+        "message": "294",
+        "line": 21,
+        "column": 8,
+        "nodeType": "267",
+        "endLine": 21,
+        "endColumn": 18,
+        "suggestions": "308"
+    },
+    {
+        "ruleId": "297",
+        "severity": 1,
+        "message": "298",
+        "line": 84,
+        "column": 62,
+        "nodeType": "299",
+        "endLine": 84,
+        "endColumn": 90
+    },
+    {
+        "ruleId": "297",
+        "severity": 1,
+        "message": "298",
+        "line": 84,
+        "column": 136,
+        "nodeType": "299",
+        "endLine": 84,
+        "endColumn": 197
+    },
+    {
+        "ruleId": "297",
+        "severity": 1,
+        "message": "298",
+        "line": 84,
+        "column": 244,
+        "nodeType": "299",
+        "endLine": 84,
+        "endColumn": 303
+    },
+    {
+        "ruleId": "297",
+        "severity": 1,
+        "message": "300",
+        "line": 96,
+        "column": 41,
+        "nodeType": "299",
+        "endLine": 96,
+        "endColumn": 53
+    },
+    {
+        "ruleId": "297",
+        "severity": 1,
+        "message": "298",
+        "line": 100,
+        "column": 48,
+        "nodeType": "299",
+        "endLine": 100,
+        "endColumn": 51
+    },
+    {
+        "ruleId": "275",
+        "severity": 1,
+        "message": "309",
+        "line": 16,
+        "column": 12,
+        "nodeType": "277",
+        "messageId": "278",
+        "endLine": 16,
+        "endColumn": 21
+    },
+    {
+        "ruleId": "265",
+        "severity": 1,
+        "message": "310",
+        "line": 33,
+        "column": 8,
+        "nodeType": "267",
+        "endLine": 33,
+        "endColumn": 10,
+        "suggestions": "311"
+    },
+    {
+        "ruleId": "265",
+        "severity": 1,
+        "message": "312",
+        "line": 45,
+        "column": 8,
+        "nodeType": "267",
+        "endLine": 45,
+        "endColumn": 15,
+        "suggestions": "313"
+    },
+    {
+        "ruleId": "275",
+        "severity": 1,
+        "message": "314",
+        "line": 268,
+        "column": 13,
+        "nodeType": "277",
+        "messageId": "278",
+        "endLine": 268,
+        "endColumn": 21
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "316",
+        "line": 378,
+        "column": 49,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 378,
+        "endColumn": 51
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "316",
+        "line": 378,
+        "column": 90,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 378,
+        "endColumn": 92
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "319",
+        "line": 378,
+        "column": 90,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 378,
+        "endColumn": 92
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "319",
+        "line": 378,
+        "column": 117,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 378,
+        "endColumn": 119
+    },
+    {
+        "ruleId": "320",
+        "severity": 1,
+        "message": "321",
+        "line": 411,
+        "column": 21,
+        "nodeType": "277",
+        "messageId": "322",
+        "endLine": 411,
+        "endColumn": 23
+    },
+    {
+        "ruleId": "320",
+        "severity": 1,
+        "message": "323",
+        "line": 412,
+        "column": 21,
+        "nodeType": "277",
+        "messageId": "322",
+        "endLine": 412,
+        "endColumn": 23
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "316",
+        "line": 431,
+        "column": 49,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 431,
+        "endColumn": 51
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "316",
+        "line": 431,
+        "column": 90,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 431,
+        "endColumn": 92
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "319",
+        "line": 431,
+        "column": 90,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 431,
+        "endColumn": 92
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "319",
+        "line": 431,
+        "column": 117,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 431,
+        "endColumn": 119
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "316",
+        "line": 485,
+        "column": 34,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 485,
+        "endColumn": 36
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "316",
+        "line": 485,
+        "column": 59,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 485,
+        "endColumn": 61
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "319",
+        "line": 485,
+        "column": 59,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 485,
+        "endColumn": 61
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "319",
+        "line": 485,
+        "column": 75,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 485,
+        "endColumn": 77
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "319",
+        "line": 485,
+        "column": 100,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 485,
+        "endColumn": 102
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "319",
+        "line": 485,
+        "column": 116,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 485,
+        "endColumn": 118
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "316",
+        "line": 501,
+        "column": 64,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 501,
+        "endColumn": 66
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "316",
+        "line": 501,
+        "column": 77,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 501,
+        "endColumn": 79
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "319",
+        "line": 501,
+        "column": 77,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 501,
+        "endColumn": 79
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "319",
+        "line": 501,
+        "column": 119,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 501,
+        "endColumn": 121
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "316",
+        "line": 512,
+        "column": 53,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 512,
+        "endColumn": 55
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "316",
+        "line": 512,
+        "column": 94,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 512,
+        "endColumn": 96
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "319",
+        "line": 512,
+        "column": 94,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 512,
+        "endColumn": 96
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "319",
+        "line": 512,
+        "column": 121,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 512,
+        "endColumn": 123
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "316",
+        "line": 554,
+        "column": 34,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 554,
+        "endColumn": 36
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "316",
+        "line": 554,
+        "column": 59,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 554,
+        "endColumn": 61
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "319",
+        "line": 554,
+        "column": 59,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 554,
+        "endColumn": 61
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "319",
+        "line": 554,
+        "column": 75,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 554,
+        "endColumn": 77
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "316",
+        "line": 570,
+        "column": 64,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 570,
+        "endColumn": 66
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "316",
+        "line": 570,
+        "column": 77,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 570,
+        "endColumn": 79
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "319",
+        "line": 570,
+        "column": 77,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 570,
+        "endColumn": 79
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "319",
+        "line": 570,
+        "column": 119,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 570,
+        "endColumn": 121
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "316",
+        "line": 576,
+        "column": 53,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 576,
+        "endColumn": 55
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "316",
+        "line": 576,
+        "column": 94,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 576,
+        "endColumn": 96
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "319",
+        "line": 576,
+        "column": 94,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 576,
+        "endColumn": 96
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "319",
+        "line": 576,
+        "column": 121,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 576,
+        "endColumn": 123
+    },
+    {
+        "ruleId": "275",
+        "severity": 1,
+        "message": "324",
+        "line": 695,
+        "column": 21,
+        "nodeType": "277",
+        "messageId": "278",
+        "endLine": 695,
+        "endColumn": 24
+    },
+    {
+        "ruleId": "301",
+        "severity": 1,
+        "message": "302",
+        "line": 797,
+        "column": 60,
+        "nodeType": "303",
+        "messageId": "304",
+        "endLine": 797,
+        "endColumn": 61
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "316",
+        "line": 835,
+        "column": 56,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 835,
+        "endColumn": 58
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "316",
+        "line": 835,
+        "column": 79,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 835,
+        "endColumn": 81
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "319",
+        "line": 835,
+        "column": 79,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 835,
+        "endColumn": 81
+    },
+    {
+        "ruleId": "315",
+        "severity": 1,
+        "message": "319",
+        "line": 835,
+        "column": 112,
+        "nodeType": "317",
+        "messageId": "318",
+        "endLine": 835,
+        "endColumn": 114
+    },
+    "no-useless-constructor",
+    "Useless constructor.",
+    "MethodDefinition",
+    "noUselessConstructor",
+    "import/no-anonymous-default-export",
+    "Assign object to a variable before exporting as module default",
+    "ExportDefaultDeclaration",
+    "react-hooks/exhaustive-deps",
+    "React Hook useEffect has a missing dependency: 'dispatch'. Either include it or remove the dependency array.",
+    "ArrayExpression",
+    [
+        "325"
+    ],
+    [
+        "326"
+    ],
+    "React Hook useEffect has missing dependencies: 'dispatch' and 'user'. Either include them or remove the dependency array.",
+    [
+        "327"
+    ],
+    "React Hook useEffect has missing dependencies: 'props' and 'updateState'. Either include them or remove the dependency array.",
+    [
+        "328"
+    ],
+    [
+        "329"
+    ],
+    "no-unused-vars",
+    "'user' is assigned a value but never used.",
+    "Identifier",
+    "unusedVar",
+    "'dispatch' is assigned a value but never used.",
+    "'state' is assigned a value but never used.",
+    "'updateState' is assigned a value but never used.",
+    "'onFinish' is assigned a value but never used.",
+    [
+        "330"
+    ],
+    "'useState' is defined but never used.",
+    "'FacebookLogin' is defined but never used.",
+    "'FacebookLoginButton' is defined but never used.",
+    "'facebookId' is defined but never used.",
+    "'facebookLogin' is defined but never used.",
+    "'MenuOutlined' is defined but never used.",
+    "'showDrawer' is assigned a value but never used.",
+    "'setShowDrawer' is assigned a value but never used.",
+    "React Hook useEffect has missing dependencies: 'history' and 'user?.isAdmin'. Either include them or remove the dependency array.",
+    [
+        "331"
+    ],
+    "React Hook useEffect has missing dependencies: 'authActions' and 'user?._id'. Either include them or remove the dependency array.",
+    [
+        "332"
+    ],
+    [
+        "333"
+    ],
+    "jsx-a11y/anchor-is-valid",
+    "The href attribute is required for an anchor to be keyboard accessible. Provide a valid, navigable address as the href value. If you cannot provide an href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md",
+    "JSXOpeningElement",
+    "The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md",
+    "no-sequences",
+    "Unexpected use of comma operator.",
+    "SequenceExpression",
+    "unexpectedCommaExpression",
+    "'GET' is defined but never used.",
+    [
+        "334"
+    ],
+    [
+        "335"
+    ],
+    [
+        "336"
+    ],
+    "'countries' is assigned a value but never used.",
+    "React Hook useEffect has a missing dependency: 'getMatch'. Either include it or remove the dependency array.",
+    [
+        "337"
+    ],
+    "React Hook useEffect has missing dependencies: 'adminConsole', 'checkWindowWidth', 'handleActive', 'updateData', 'updateInSections', and 'updateServing'. Either include them or remove the dependency array.",
+    [
+        "338"
+    ],
+    "'newMatch' is assigned a value but never used.",
+    "no-mixed-operators",
+    "Unexpected mix of '&&' and '||'.",
+    "LogicalExpression",
+    "unexpectedMixedOperator",
+    "Unexpected mix of '||' and '&&'.",
+    "no-redeclare",
+    "'t1' is already defined.",
+    "redeclared",
+    "'t2' is already defined.",
+    "'btn' is defined but never used.",
+    {
+        "desc": "339",
+        "fix": "340"
+    },
+    {
+        "desc": "339",
+        "fix": "341"
+    },
+    {
+        "desc": "342",
+        "fix": "343"
+    },
+    {
+        "desc": "344",
+        "fix": "345"
+    },
+    {
+        "desc": "339",
+        "fix": "346"
+    },
+    {
+        "desc": "344",
+        "fix": "347"
+    },
+    {
+        "desc": "348",
+        "fix": "349"
+    },
+    {
+        "desc": "350",
+        "fix": "351"
+    },
+    {
+        "desc": "352",
+        "fix": "353"
+    },
+    {
+        "desc": "352",
+        "fix": "354"
+    },
+    {
+        "desc": "355",
+        "fix": "356"
+    },
+    {
+        "desc": "352",
+        "fix": "357"
+    },
+    {
+        "desc": "358",
+        "fix": "359"
+    },
+    {
+        "desc": "360",
+        "fix": "361"
+    },
+    "Update the dependencies array to be: [dispatch]",
+    {
+        "range": "362",
+        "text": "363"
+    },
+    {
+        "range": "364",
+        "text": "363"
+    },
+    "Update the dependencies array to be: [dispatch, user]",
+    {
+        "range": "365",
+        "text": "366"
+    },
+    "Update the dependencies array to be: [props, updateState]",
+    {
+        "range": "367",
+        "text": "368"
+    },
+    {
+        "range": "369",
+        "text": "363"
+    },
+    {
+        "range": "370",
+        "text": "368"
+    },
+    "Update the dependencies array to be: [history, user?.isAdmin]",
+    {
+        "range": "371",
+        "text": "372"
+    },
+    "Update the dependencies array to be: [authActions, key, user?._id]",
+    {
+        "range": "373",
+        "text": "374"
+    },
+    "Update the dependencies array to be: [authActions, showForm, user?._id]",
+    {
+        "range": "375",
+        "text": "376"
+    },
+    {
+        "range": "377",
+        "text": "376"
+    },
+    "Update the dependencies array to be: [authActions, user?._id]",
+    {
+        "range": "378",
+        "text": "379"
+    },
+    {
+        "range": "380",
+        "text": "376"
+    },
+    "Update the dependencies array to be: [getMatch]",
+    {
+        "range": "381",
+        "text": "382"
+    },
+    "Update the dependencies array to be: [adminConsole, checkWindowWidth, handleActive, match, updateData, updateInSections, updateServing]",
+    {
+        "range": "383",
+        "text": "384"
+    },
+    [
+        1375,
+        1377
+    ],
+    "[dispatch]",
+    [
+        651,
+        653
+    ],
+    [
+        1766,
+        1768
+    ],
+    "[dispatch, user]",
+    [
+        2204,
+        2206
+    ],
+    "[props, updateState]",
+    [
+        1337,
+        1339
+    ],
+    [
+        1095,
+        1097
+    ],
+    [
+        776,
+        778
+    ],
+    "[history, user?.isAdmin]",
+    [
+        857,
+        862
+    ],
+    "[authActions, key, user?._id]",
+    [
+        932,
+        942
+    ],
+    "[authActions, showForm, user?._id]",
+    [
+        957,
+        967
+    ],
+    [
+        625,
+        627
+    ],
+    "[authActions, user?._id]",
+    [
+        898,
+        908
+    ],
+    [
+        1615,
+        1617
+    ],
+    "[getMatch]",
+    [
+        1927,
+        1934
+    ],
+    "[adminConsole, checkWindowWidth, handleActive, match, updateData, updateInSections, updateServing]"
+]
